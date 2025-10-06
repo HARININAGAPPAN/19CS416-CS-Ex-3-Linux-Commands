@@ -1,10 +1,14 @@
-Ex.3 Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
-NAME:HARINI N
-REG NUMBER: 2122223040057
-Aim:
+# Ex.3 Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
+
+# NAME:HARINI N
+
+# REG NUMBER: 2122223040057
+
+# Aim:
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
 
-3.a) Installation and Configuration of Oracle VirtualBox
+# 3.a) Installation and Configuration of Oracle VirtualBox
+
 # Aim:
 To install and configure Oracle VM VirtualBox.
 
